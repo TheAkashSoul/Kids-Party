@@ -42,7 +42,7 @@ export default function HeroPage() {
           </div>
         </div>
 
-        <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-16 mt-8 md:mt-0">
+        <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-8 md:gap-16 mt-8 md:mt-0">
           <div className="flex items-center lg:justify-center lg:w-[50%]">
             <div className="flex flex-col gap-2">
               <p className="text-[#262626] md:text-2xl text-xl font-light">
