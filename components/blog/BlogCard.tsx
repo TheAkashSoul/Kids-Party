@@ -6,7 +6,7 @@ type blogposts = {
   caption: string;
 };
 
-export default function ({ image, title, caption }: blogposts) {
+export default function BlogCard({ image, title, caption }: blogposts) {
   return (
     <main className="bg-[#FFF] shadow-lg shadow-[#000000]/20 px-4 py-6 rounded-xl flex flex-col items-center h-full justify-between">
       <div className="w-fit bg-black overflow-hidden rounded-3xl hover:scale-105 transition duration-100">
