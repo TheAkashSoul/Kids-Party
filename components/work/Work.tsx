@@ -23,8 +23,8 @@ export default function Work() {
         <p className="text-[#262626] font-normal mt-3 mb-6 text-sm">
           We are always on the lookout for talented and fun individuals or
           companies to collaborate with, aiming to provide amazing experiences
-          for kids across the US. Here's why working with Yomdi is a no-brainer
-          for hundreds of talented entertainers.
+          for kids across the US. Here&apos;s why working with Yomdi is a
+          no-brainer for hundreds of talented entertainers.
         </p>
         <h3 className="font-bold text-lg text-[#262626]">
           How Easy is it to Work with Yomdi?
