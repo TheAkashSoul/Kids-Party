@@ -1,3 +1,4 @@
+import Blog from "@/components/blog/Blog";
 import HeroPage from "@/components/hero/HeroPage";
 import HeroReviews from "@/components/hero/HeroReviews";
 import Service from "@/components/servicesection/Service";
@@ -12,6 +13,7 @@ export default function Home() {
         <HeroReviews />
         <Service />
         <Work />
+        <Blog />
       </section>
     </main>
   );
