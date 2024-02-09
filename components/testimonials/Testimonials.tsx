@@ -29,8 +29,8 @@ export default function Testimonials() {
                   <IoIosStar size={20} color="#383838" />
                 </div>
                 <p className="mt-3 text-base font-light text-[#383838]">
-                  "We loved the entertainment and hope to see you all again
-                  soon."
+                  &quot;We loved the entertainment and hope to see you all again
+                  soon.&quot;
                 </p>
                 <p className="mt-6 mb-3 font-bold text-[#383838] md:text-md">
                   - Stephanie Volde
@@ -53,8 +53,8 @@ export default function Testimonials() {
                   <IoIosStar size={20} color="#383838" />
                 </div>
                 <p className="mt-3 text-base font-light text-[#383838]">
-                  "Easy to book, fun and a great experience for the kids. Will
-                  definitely book again."
+                  &quot;Easy to book, fun and a great experience for the kids.
+                  Will definitely book again.&quot;
                 </p>
                 <p className="mt-6 mb-3 font-bold text-[#383838] text-md">
                   - John Rivers
@@ -77,8 +77,8 @@ export default function Testimonials() {
                   <IoIosStar size={20} color="#383838" />
                 </div>
                 <p className="mt-3 text-base font-light text-[#383838]">
-                  "We loved the entertainment and hope to see you all again
-                  soon."
+                  &quot;We loved the entertainment and hope to see you all again
+                  soon.&quot;
                 </p>
                 <p className="mt-6 mb-3 font-bold text-[#383838] text-md">
                   - Stephanie Volde
