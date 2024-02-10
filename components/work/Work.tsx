@@ -4,7 +4,7 @@ export default function Work() {
   return (
     <main className="flex flex-row justify-between mt-32 w-full md:w-[80%] mx-auto mb-10 md:mt-20">
       <div className="hidden w-[45%] md:flex bg-[#FFECDA] lg:rounded-[40px] md:rounded-3xl py-8 items-start justify-center">
-        <div className="w-full bg-black lg:rounded-[60px] md:rounded-3xl overflow-hidden -mr-20">
+        <div className="w-full lg:rounded-[60px] md:rounded-3xl overflow-hidden -mr-20">
           <Image
             src={
               "https://yombu.com/wp-content/uploads/2022/11/Kids-Party-Entertainer-Balloon-Twister-Yombu.png"
